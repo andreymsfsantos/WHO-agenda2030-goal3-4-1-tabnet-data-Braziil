@@ -1,0 +1,110 @@
+Mortalidade Geral em investigação
+Óbitos Residentes MSP por Distrito Admin residência e Faixa Etária OMS
+Causa(CID10 3C): I10 Hipertensao essencial
+Lista condens CID10: Doenças hipertensivas
+Período:2025
+"Distrito Admin residência";"35-44";"45-54";"55-64";"65-74";"75 e+";"Total"
+"Água Rasa";-;-;-;-;4;4
+"Alto de Pinheiros";-;-;-;-;-;-
+"Anhanguera";-;-;-;-;-;-
+"Aricanduva";-;-;1;1;1;3
+"Artur Alvim";1;-;-;-;4;5
+"Barra Funda";-;-;-;1;1;2
+"Bela Vista";-;-;-;-;1;1
+"Belém";1;-;-;-;1;2
+"Bom Retiro";-;-;-;-;-;-
+"Brás";-;-;-;1;-;1
+"Brasilândia";-;3;1;1;6;11
+"Butantã";-;-;-;-;1;1
+"Cachoeirinha";-;-;-;2;3;5
+"Cambuci";-;-;-;-;-;-
+"Campo Belo";-;-;-;1;5;6
+"Campo Grande";-;-;-;-;1;1
+"Campo Limpo";-;-;1;1;1;3
+"Cangaíba";-;-;1;1;4;6
+"Capão Redondo";-;-;1;-;-;1
+"Carrão";-;1;-;1;3;5
+"Casa Verde";-;-;-;-;1;1
+"Cidade Ademar";-;-;-;3;2;5
+"Cidade Dutra";1;-;-;1;1;3
+"Cidade Líder";-;1;1;-;2;4
+"Cidade Tiradentes";-;-;-;2;4;6
+"Consolação";-;-;-;-;1;1
+"Cursino";-;-;-;-;1;1
+"Ermelino Matarazzo";-;-;-;-;2;2
+"Freguesia do Ó";-;-;1;1;5;7
+"Grajaú";-;1;3;4;3;11
+"Guaianases";-;-;-;-;-;-
+"Iguatemi";-;-;-;-;4;4
+"Ipiranga";-;-;-;-;2;2
+"Itaim Bibi";-;-;-;-;1;1
+"Itaim Paulista";-;-;1;-;2;3
+"Itaquera";-;-;-;-;3;3
+"Jabaquara";-;-;-;-;7;7
+"Jaçanã";-;-;-;1;2;3
+"Jaguara";-;1;-;-;2;3
+"Jaguaré";-;-;-;-;2;2
+"Jaraguá";-;-;-;1;-;1
+"Jardim Ângela";-;-;-;-;3;3
+"Jardim Helena";-;-;-;1;2;3
+"Jardim Paulista";-;-;-;-;-;-
+"Jardim São Luís";1;-;-;2;1;4
+"José Bonifácio";-;1;1;-;2;4
+"Lajeado";-;-;-;2;3;5
+"Lapa";-;-;-;-;2;2
+"Liberdade";-;-;-;-;3;3
+"Limão";1;-;1;-;-;2
+"Mandaqui";-;-;-;2;5;7
+"Marsilac";-;-;-;-;-;-
+"Moema";-;-;-;-;1;1
+"Moóca";-;-;-;1;2;3
+"Morumbi";-;-;-;-;-;-
+"Parelheiros";-;-;-;1;2;3
+"Pari";-;-;-;-;-;-
+"Parque do Carmo";-;-;-;-;-;-
+"Pedreira";-;-;1;-;2;3
+"Penha";-;-;2;-;4;6
+"Perdizes";-;-;-;-;-;-
+"Perus";-;-;-;1;-;1
+"Pinheiros";-;-;-;-;1;1
+"Pirituba";-;-;1;1;4;6
+"Ponte Rasa";-;-;-;1;2;3
+"Raposo Tavares";-;-;1;-;1;2
+"República";-;-;-;-;-;-
+"Rio Pequeno";-;-;-;-;5;5
+"Sacomã";-;-;1;1;5;7
+"Santa Cecília";-;-;1;1;2;4
+"Santana";-;-;-;-;4;4
+"Santo Amaro";-;-;1;-;7;8
+"São Domingos";-;-;-;1;1;2
+"São Lucas";-;-;-;2;3;5
+"São Mateus";-;-;-;-;4;4
+"São Miguel";-;-;-;-;-;-
+"São Rafael";-;1;1;-;-;2
+"Sapopemba";-;-;-;-;3;3
+"Saúde";-;-;-;-;4;4
+"Sé";-;-;-;-;-;-
+"Socorro";-;-;-;-;1;1
+"Tatuapé";-;-;-;-;2;2
+"Tremembé";-;-;-;-;4;4
+"Tucuruvi";-;-;-;1;5;6
+"Vila Andrade";-;-;-;-;1;1
+"Vila Curuçá";-;-;-;-;2;2
+"Vila Formosa";-;-;-;-;3;3
+"Vila Guilherme";-;-;-;-;1;1
+"Vila Jacuí";-;1;-;-;4;5
+"Vila Leopoldina";-;-;-;1;-;1
+"Vila Maria";-;-;1;-;4;5
+"Vila Mariana";-;-;-;-;5;5
+"Vila Matilde";-;-;-;1;3;4
+"Vila Medeiros";-;-;1;2;5;8
+"Vila Prudente";-;-;-;-;-;-
+"Vila Sônia";-;-;-;-;2;2
+"Desconhecido";-;-;-;-;-;-
+"Ignorado";-;1;2;4;11;18
+"Total";5;11;26;49;214;305
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM – CEInfo –SMS-SP
+Notas:
+1. Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2. A partir de 2005, os óbitos por acidentes de trânsito passaram a ser qualificados com o apoio da Companhia de Engenharia de Tráfego – CET. Este processo tem uma defasagem temporal em relação ao momento em que o dado é disponibilizado.
+3. Dados provisórios. Atualizado em 19/11/2025.
