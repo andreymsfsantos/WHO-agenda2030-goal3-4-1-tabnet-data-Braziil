@@ -1,0 +1,109 @@
+Mortalidade Geral em investigação
+Óbitos Residentes MSP por Distrito Admin residência e Faixa Etária OMS
+Causa(CID10 3C): I50 Insuf cardiaca
+Período:2023
+"Distrito Admin residência";"1-4";"5-14";"15-24";"25-34";"35-44";"45-54";"55-64";"65-74";"75 e+";"Total"
+"Água Rasa";-;-;-;-;-;2;2;4;29;37
+"Alto de Pinheiros";-;-;-;-;-;-;-;-;11;11
+"Anhanguera";-;-;-;-;2;-;-;1;2;5
+"Aricanduva";-;-;-;-;-;-;1;2;19;22
+"Artur Alvim";-;-;-;-;-;-;-;6;11;17
+"Barra Funda";-;-;-;-;1;-;-;-;2;3
+"Bela Vista";-;-;-;-;-;-;-;1;4;5
+"Belém";-;-;-;-;-;-;2;3;5;10
+"Bom Retiro";-;-;-;-;-;-;-;-;-;-
+"Brás";-;-;-;-;-;1;2;2;4;9
+"Brasilândia";-;-;-;-;2;5;5;10;15;37
+"Butantã";-;-;-;-;-;1;-;-;5;6
+"Cachoeirinha";-;-;-;-;-;1;5;5;12;23
+"Cambuci";-;-;-;-;-;-;-;-;6;6
+"Campo Belo";-;-;-;-;-;1;-;3;11;15
+"Campo Grande";-;-;-;-;-;-;2;1;10;13
+"Campo Limpo";1;-;-;-;1;1;4;3;7;17
+"Cangaíba";-;-;-;-;1;-;1;8;7;17
+"Capão Redondo";-;-;-;1;1;1;1;5;12;21
+"Carrão";-;-;-;-;-;-;2;4;16;22
+"Casa Verde";-;-;-;-;-;-;-;2;4;6
+"Cidade Ademar";-;-;1;-;-;2;6;4;16;29
+"Cidade Dutra";-;-;-;-;-;1;3;7;15;26
+"Cidade Líder";-;-;-;-;-;2;2;4;10;18
+"Cidade Tiradentes";-;-;-;-;-;1;2;6;7;16
+"Consolação";-;-;-;-;-;-;-;-;12;12
+"Cursino";-;-;-;-;-;3;1;1;13;18
+"Ermelino Matarazzo";-;-;-;-;-;1;2;4;7;14
+"Freguesia do Ó";-;-;-;-;-;1;3;5;14;23
+"Grajaú";-;-;-;1;-;1;4;8;13;27
+"Guaianases";-;-;-;-;1;1;3;3;8;16
+"Iguatemi";-;-;-;-;1;1;5;5;7;19
+"Ipiranga";-;-;-;-;-;-;3;5;15;23
+"Itaim Bibi";-;-;-;-;-;-;-;3;9;12
+"Itaim Paulista";-;-;-;1;-;-;6;6;17;30
+"Itaquera";-;-;-;-;-;1;2;6;9;18
+"Jabaquara";-;-;-;-;-;1;3;3;24;31
+"Jaçanã";-;-;-;-;-;-;3;1;13;17
+"Jaguara";-;-;-;1;-;-;-;-;8;9
+"Jaguaré";-;-;-;-;-;-;-;1;2;3
+"Jaraguá";-;-;1;-;1;-;2;6;17;27
+"Jardim Ângela";-;-;-;1;-;4;1;7;9;22
+"Jardim Helena";-;-;-;-;1;2;6;3;9;21
+"Jardim Paulista";-;-;-;-;1;-;-;2;14;17
+"Jardim São Luís";-;-;-;-;1;1;3;7;18;30
+"José Bonifácio";-;-;-;-;-;2;1;6;6;15
+"Lajeado";1;-;-;-;-;-;3;7;9;20
+"Lapa";-;-;-;-;-;-;-;1;14;15
+"Liberdade";-;-;-;-;-;-;-;1;8;9
+"Limão";-;-;-;-;-;-;1;-;9;10
+"Mandaqui";-;-;-;-;-;-;-;3;14;17
+"Marsilac";-;-;-;-;-;-;-;1;1;2
+"Moema";-;-;-;-;-;-;-;1;5;6
+"Moóca";-;-;-;-;-;-;3;1;12;16
+"Morumbi";-;-;-;-;-;-;-;-;5;5
+"Parelheiros";-;-;-;-;1;2;5;4;14;26
+"Pari";-;-;-;-;-;-;-;1;2;3
+"Parque do Carmo";-;-;-;-;-;2;1;-;4;7
+"Pedreira";-;-;-;-;-;-;2;4;7;13
+"Penha";-;-;-;-;-;1;2;1;21;25
+"Perdizes";-;-;-;-;-;-;-;-;14;14
+"Perus";-;-;-;-;1;-;1;4;5;11
+"Pinheiros";-;-;-;-;-;-;-;1;8;9
+"Pirituba";-;-;-;-;-;2;2;1;21;26
+"Ponte Rasa";-;-;-;-;-;-;1;4;10;15
+"Raposo Tavares";-;-;-;-;-;-;-;1;4;5
+"República";-;-;-;-;-;-;-;1;5;6
+"Rio Pequeno";-;-;-;-;-;2;1;3;6;12
+"Sacomã";-;-;-;-;-;2;1;8;21;32
+"Santa Cecília";-;-;-;-;-;-;1;1;14;16
+"Santana";-;-;-;-;-;-;1;1;15;17
+"Santo Amaro";-;-;-;-;-;-;-;3;13;16
+"São Domingos";-;-;-;-;-;-;-;-;7;7
+"São Lucas";-;-;-;-;-;1;1;7;26;35
+"São Mateus";-;-;-;1;-;1;5;2;17;26
+"São Miguel";-;-;-;-;-;-;1;4;12;17
+"São Rafael";-;-;-;-;-;1;4;4;10;19
+"Sapopemba";-;-;-;-;-;3;3;8;29;43
+"Saúde";-;-;-;-;-;-;1;4;20;25
+"Sé";-;-;-;-;-;-;-;-;-;-
+"Socorro";-;-;-;-;-;-;-;-;3;3
+"Tatuapé";-;-;-;-;-;-;3;3;14;20
+"Tremembé";-;-;-;-;-;-;3;2;8;13
+"Tucuruvi";-;-;-;1;-;-;-;3;15;19
+"Vila Andrade";-;-;-;-;-;1;-;1;14;16
+"Vila Curuçá";-;-;-;-;1;2;4;7;10;24
+"Vila Formosa";-;-;-;-;-;-;2;4;15;21
+"Vila Guilherme";-;-;-;-;-;-;2;-;6;8
+"Vila Jacuí";-;-;-;-;-;1;2;8;5;16
+"Vila Leopoldina";-;-;-;-;-;-;-;1;5;6
+"Vila Maria";-;1;-;-;-;-;4;3;9;17
+"Vila Mariana";-;-;-;-;-;-;-;1;23;24
+"Vila Matilde";-;-;-;-;-;1;2;5;18;26
+"Vila Medeiros";-;1;-;-;1;-;2;2;13;19
+"Vila Prudente";-;-;-;-;-;1;-;3;17;21
+"Vila Sônia";-;-;-;-;1;-;-;1;7;9
+"Desconhecido";-;-;-;-;-;-;-;-;-;-
+"Ignorado";-;-;-;-;-;2;1;3;6;12
+"Total";2;2;2;7;19;63;153;292;1054;1594
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM – CEInfo –SMS-SP
+Notas:
+1. Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2. A partir de 2005, os óbitos por acidentes de trânsito passaram a ser qualificados com o apoio da Companhia de Engenharia de Tráfego – CET. Este processo tem uma defasagem temporal em relação ao momento em que o dado é disponibilizado.
+3. Dados provisórios. Atualizado em 19/11/2025.
